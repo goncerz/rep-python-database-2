@@ -1,2 +1,2 @@
 # rep-python-database-2
-Manipulate data from table (psql)
+Simple application to manipulate data from a table from PSQL/MySQL DB
